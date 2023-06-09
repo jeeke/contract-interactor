@@ -1,0 +1,13 @@
+{
+  "name": "contract-interaction-backend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ethers": "^5.7.1",
+    "express": "^4.18.2",
+    "dotenv": "^16.1.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
